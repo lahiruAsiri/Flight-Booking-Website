@@ -63,4 +63,4 @@ Start the local development server:
 
 ```
 
-![Uploading localhost_5173_ (2).png…]()
+![localhost_5173_](https://github.com/user-attachments/assets/7ad3bc45-af20-4b89-ade3-e56b1264610e)
