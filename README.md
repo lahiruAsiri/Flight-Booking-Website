@@ -1,0 +1,2 @@
+# Flight-Booking-Website
+ A simple and efficient Flight Search Function that allows users to search for flights based on origin, destination, and travel dates. This function dynamically retrieves and displays flight options, enabling users to find the best matches for their travel needs. Built with a focus on usability and responsiveness, it serves as the core feature of a flight booking system, showcasing streamlined search functionality.
