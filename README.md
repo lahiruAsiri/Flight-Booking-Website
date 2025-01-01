@@ -18,6 +18,7 @@ Ensure you have the following installed:
 - A code editor like VS Code.
 
 
+
 ## Installation
 
 Follow these steps to set up the project locally:
@@ -47,12 +48,9 @@ If the project uses dependencies, install them using:
 In the amadeus.js file, replace the placeholders with your Amadeus API key and secret key:
 
 ```bash
-  const Amadeus = require('amadeus');
 
-  const amadeus = new Amadeus({
-    clientId: 'YOUR_API_KEY', // Replace with your API  key
-    clientSecret: 'YOUR_SECRET_KEY' // Replace with your secret key
-});
+const AMADEUS_API_KEY = YOUR_API_KEY'; Key
+const AMADEUS_API_SECRET = 'YOUR_SECRET_KEY'; 
 
 ```
 
@@ -61,7 +59,6 @@ In the amadeus.js file, replace the placeholders with your Amadeus API key and s
 Start the local development server:
 
 ```bash
-  npm start  
+  npm run dev 
 
 ```
-    
