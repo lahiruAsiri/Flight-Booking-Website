@@ -63,4 +63,4 @@ Start the local development server:
 
 ```
 
-![localhost_5173_](https://github.com/user-attachments/assets/7ad3bc45-af20-4b89-ade3-e56b1264610e)
+![localhost_5173_ (2)-2](https://github.com/user-attachments/assets/fb2e6f3e-8d5e-4a88-a6df-45420de35840)
