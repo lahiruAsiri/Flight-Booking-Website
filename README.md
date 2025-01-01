@@ -49,7 +49,7 @@ In the amadeus.js file, replace the placeholders with your Amadeus API key and s
 
 ```bash
 
-const AMADEUS_API_KEY = YOUR_API_KEY'; Key
+const AMADEUS_API_KEY = YOUR_API_KEY'; 
 const AMADEUS_API_SECRET = 'YOUR_SECRET_KEY'; 
 
 ```
