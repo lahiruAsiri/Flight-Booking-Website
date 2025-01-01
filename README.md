@@ -1,8 +1,33 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Installation
 
-Currently, two official plugins are available:
+Follow these steps to set up the project locally:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1 Clone the Repository
+
+Open your terminal and run the following command:
+
+```bash
+  git clone https://github.com/lahiruAsiri
+  Flight-Booking-Website.git  
+
+  cd Flight-Booking-Website  
+
+```
+2 Install Dependencies
+
+If the project uses dependencies, install them using:
+
+```bash
+  npm install  
+
+```
+3 Run the Project
+
+Start the local development server:
+
+```bash
+  npm start  
+
+```
+    
