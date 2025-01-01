@@ -1,2 +1,8 @@
-# Flight-Booking-Website
- A simple and efficient Flight Search Function that allows users to search for flights based on origin, destination, and travel dates. This function dynamically retrieves and displays flight options, enabling users to find the best matches for their travel needs. Built with a focus on usability and responsiveness, it serves as the core feature of a flight booking system, showcasing streamlined search functionality.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
